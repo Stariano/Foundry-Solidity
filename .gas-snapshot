@@ -1,0 +1,8 @@
+FundMeTest:testAddsFunder() (gas: 100066)
+FundMeTest:testFUndMeUpdatesFundedData() (gas: 99880)
+FundMeTest:testMiminmum() (gas: 8366)
+FundMeTest:testOnlyOwnerWithdraw() (gas: 99972)
+FundMeTest:testOwner() (gas: 8476)
+FundMeTest:testOwnerEth() (gas: 23095)
+FundMeTest:testWithdrawwfuner() (gas: 88110)
+FundMeTest:testWithdrawwfunercheap() (gas: 87963)
